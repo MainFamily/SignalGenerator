@@ -2,3 +2,7 @@ main()
 {
     return;123
 }
+
+
+func1£¨£©
+{}
