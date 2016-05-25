@@ -1,6 +1,6 @@
 main()
 {
-    return;123
+	return;123
 }
 
 
@@ -10,14 +10,14 @@ func1£¨£©
 func2()
 {}
 
+func3()
+{}
+
 func4£¨£©
 {}
 
-
-
-
-
-
+func5()
+{}
 
 func6£¨£©
 {}
