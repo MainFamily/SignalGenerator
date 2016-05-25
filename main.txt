@@ -13,6 +13,9 @@ func2()
 func3()
 {}
 
+func4x()
+{}
+
 func5()
 {}
 
